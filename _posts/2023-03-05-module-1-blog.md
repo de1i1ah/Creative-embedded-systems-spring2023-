@@ -9,10 +9,6 @@ Because just the history of slavery and african americans in the United state ha
 even given the same dignity as their fellow man. I choose the eclipse because it encampasses taking up space which is 
 something that has lead to the loss of lives. 
 
+Here is a link to a video of the installation:
 
-
- ```tsql
- SELECT *
- FROM sys.tables
- WHERE [name] = 'SomeTable'
- ```
+https://youtube.com/shorts/7JwPqqHEMEk?feature=share
