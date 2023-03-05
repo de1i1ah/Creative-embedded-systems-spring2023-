@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I am a senior at Barnard majoring in Computer Science exploring the hardware side of technology 
+through a creative lens. 
