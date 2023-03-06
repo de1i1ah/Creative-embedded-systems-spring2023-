@@ -1,4 +1,4 @@
-## This the technical document to supplement Module 1
+# Technical document to supplement Module 1
 
 For this module we created a generative code installation using an Esp-32. The main purpose of this project was to use our creative abilities and techincal skills to express a poem or any text that we felt was important to us. 
 
