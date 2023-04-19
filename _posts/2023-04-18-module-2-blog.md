@@ -1,5 +1,5 @@
 
-
+# Module 2 - Installation blog post 2
 
 
   For this project, I made a heart shape enclosure. I used my esp32 and a joystick to create a controller. I used a 3-d printer to create my enclosure. There were many errors as it was my first time using a 3-d printer. I wanted to create a heart visualization where the joystick could control a heartbeat animation that would appear on my computer screen. When the joystick is connected to the esp32, It can read the analog values from the X and Y axes and send them to the computer over serial communication. I mapped the X and Y values to a range that represented the heartbeat rate and used these mapped values to control the speed and size of the heartbeat animation changes. Then, I used the Python script to read the values from the serial port and Pygame to create the animation. 
