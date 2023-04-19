@@ -23,6 +23,7 @@ First you need to use the female to female wires to connect the joystick and ard
 Here are the steps you can follow replicate this project and run the Arduino and Python scripts together to display the heart visualization:
 - Connect your ESP32 to your computer via USB cable.
 - Clone the github repo that includes the python script and Arduino code
+- Find the github repo here: https://github.com/de1i1ah/Creative-embedded-systems-spring2023-
 - Open the Arduino IDE and flash the Arduino code to your ESP32.
 - Open a terminal or command prompt on your computer and navigate to the directory where the Python script is located.
 - Before running the python script make sure you have the Pygame library installed.
