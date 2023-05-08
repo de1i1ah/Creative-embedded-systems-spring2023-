@@ -1,4 +1,4 @@
-
+# Final Project - Hopscotch Installation blog post
 
 For our Final project, we created a finger-sized hopscotch that lights up as you hop on each tile. 
 	
