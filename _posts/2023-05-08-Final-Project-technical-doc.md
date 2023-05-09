@@ -22,7 +22,7 @@ The hardware and software material needed to repulicate:
 - Hinges
 
 The ardunio code that was used can be found and dowloaded from this repo:
-https://github.com/de1i1ah/Creative-embedded-systems-spring2023-/
+(https://github.com/nicholasjdc/Embedded_Systems/tree/main/Hopscotch)
 
 <img width="681" alt="Screenshot 2023-05-08 at 6 37 26 PM" src="https://user-images.githubusercontent.com/46787224/236961231-c375114b-c2bc-40a8-a8b7-a59fd4caa89d.png">
 
